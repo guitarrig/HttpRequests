@@ -1,0 +1,12 @@
+{
+    "name": "komp/htdocs",
+    "require": {
+        "php-amqplib/php-amqplib": "^2.7"
+    },
+    "authors": [
+        {
+            "name": "guitarrig",
+            "email": "sizif.com@list.ru"
+        }
+    ]
+}
